@@ -1,23 +1,15 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Rinat Yagudin👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+## I'm a junior front-end developer!
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
--   🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
--   🌱 I’m currently learning everything 🤣
--   👯 I’m looking to collaborate with other content creators
--   🥅 2020 Goals: Contribute more to Open Source projects
--   ⚡ Fun fact: I love to draw and play guitar / drums
+-   👨‍🎓 I am a 4th year bachelor student in Software Engineering
+-   📖 At the moment I am studying frameworks and improving my skills in algorithms
+-   🇬🇧 My level of English Intermediate or Upper Intermediate (B1-B2)
+-   ✒️ Also in the process of writing a diploma
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="habr" width="22px" src="https://habrastorage.org/getpro/moikrug/uploads/company/901/244/761/logo/medium_c35efb293cd85320d66e74304d3a8076.jpg" />][career.habr](https://career.habr.com/yagudinfront)
 
 <br />
 
