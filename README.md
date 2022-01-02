@@ -9,9 +9,11 @@
 
 ### Connect with me:
 
-<img align="left" alt="habr" width="22px" src="https://habrastorage.org/getpro/moikrug/uploads/company/901/244/761/logo/medium_c35efb293cd85320d66e74304d3a8076.jpg" />[career.habr](https://career.habr.com/yagudinfront) <br />
-<img align="left" alt="habr" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124019.png" /> @Richard11Berry <br />
-<img align="left" alt="habr" width="22px" src="https://obvk.kz/wp-content/uploads/2018/07/vk-icon.png" />[VK](https://vk.com/rich1berr)
+## <img align="left" alt="habr" width="22px" src="https://habrastorage.org/getpro/moikrug/uploads/company/901/244/761/logo/medium_c35efb293cd85320d66e74304d3a8076.jpg" />[career.habr](https://career.habr.com/yagudinfront)
+
+## <img align="left" alt="habr" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124019.png" /> @Richard11Berry
+
+## <img align="left" alt="habr" width="22px" src="https://obvk.kz/wp-content/uploads/2018/07/vk-icon.png" />[VK](https://vk.com/rich1berr)
 
 <br />
 
