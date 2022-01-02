@@ -4,7 +4,7 @@
 
 -   👨‍🎓 I am a 4th year bachelor student in Software Engineering
 -   📖 At the moment I am studying frameworks and improving my skills in algorithms
--   🇬🇧 My level of English Intermediate or Upper Intermediate (B1-B2)
+-   🇬🇧 My level of English Intermediate/Upper Intermediate (B1-B2)
 -   ✒️ Also in the process of writing a diploma
 
 ### Links and contacts:
