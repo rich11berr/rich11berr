@@ -2,7 +2,7 @@
 
 ## I'm a junior front-end developer!
 
--   👨‍🎓 I am a 4th year bachelor student in Software Engineering
+-   👨‍🎓 I am a 4th year bachelor student Software Engineering
 -   📖 At the moment I am studying frameworks and improving my skills in algorithms
 -   🇬🇧 My level of English Intermediate/Upper Intermediate (B1-B2)
 -   ✒️ Also in the process of writing a diploma
