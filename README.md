@@ -1,14 +1,14 @@
 ### Hi there, I'm Rinat Yagudin👋
 
-## I'm a junior front-end developer!
+## I'm a intern front-end developer at Grid Dunamics!
 
 -   👨‍🎓 I am a 4th year bachelor student Software Engineering
 -   📖 At the moment I am studying frameworks and improving my skills in algorithms
--   🇬🇧 My level of English Intermediate/Upper Intermediate (B1-B2)
+-   🇬🇧 My level of English Intermediate (B1)
 -   ✒️ Also in the process of writing a diploma
 
 ### Links and contacts:
-
+## [Portfolio](https://rich11berr.github.io/portfolio/#home)
 ## <img align="left" alt="habr" width="22px" src="https://habrastorage.org/getpro/moikrug/uploads/company/901/244/761/logo/medium_c35efb293cd85320d66e74304d3a8076.jpg" />[career.habr](https://career.habr.com/yagudinfront)
 
 ## <img align="left" alt="habr" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124019.png" /> @Richard11Berry
