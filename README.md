@@ -1,6 +1,6 @@
 ### Hi there, I'm Rinat Yagudin👋
 
-## I'm a intern front-end developer at Grid Dunamics!
+## I'm a intern front-end developer at Grid Dynamics!
 
 -   👨‍🎓 I am a 4th year bachelor student Software Engineering
 -   📖 At the moment I am studying frameworks and improving my skills in algorithms
