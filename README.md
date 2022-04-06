@@ -10,11 +10,10 @@
 ## [Portfolio](https://rich11berr.github.io/portfolio/#home)
 ## <img align="left" alt="habr" width="22px" src="https://habrastorage.org/files/df0/491/ba4/df0491ba483b4446bc9261be83f69ebd.png" />[career.habr](https://career.habr.com/yagudinfront)
 
-## <img align="left" alt="habr" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124019.png" /> @Richard11Berry
+## <img align="left" alt="telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124019.png" /> @Richard11Berry
 
-## <img align="left" alt="habr" width="22px" src="https://obvk.kz/wp-content/uploads/2018/07/vk-icon.png" />[VK](https://vk.com/rich1berr)
 
-## <img align="left" alt="habr" width="22px" src="https://www.codewars.com/assets/logos/logo-61192cf7c75904d495e7ad69695fbf0bffd965bc3e17ac60f6c6b475304db09d.svg" />[CodeWars](https://www.codewars.com/users/rich11berr)
+## <img align="left" alt="codewars" width="22px" src="https://docs.codewars.com/logo.svg" />[CodeWars](https://www.codewars.com/users/rich11berr)
 
 <br />
 
