@@ -1,11 +1,10 @@
 ### Hi there, I'm Rinat Yagudin👋
 
-## I'm a intern front-end developer at Grid Dynamics!
+## I'm a front-end developer. Currently looking for job =)
 
--   👨‍🎓 I am a 4th year bachelor student Software Engineering
--   📖 At the moment I am studying frameworks and improving my skills in algorithms
+-   👨‍🎓 I am bachelor Software Engineering
+-   📖 React, EmberJS/Angular, JS(ES6+), Git, Docker
 -   🇬🇧 My level of English Intermediate (B1)
--   ✒️ Also in the process of writing a diploma
 
 ### Links and contacts:
 ## [Portfolio](https://rich11berr.github.io/portfolio/#home)
@@ -30,6 +29,9 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="EmberJS" width="26px" src="https://blog.emberjs.com/images/logos/e-icon.png" />
+<img align="left" alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />
+
 
 <br />
 <br />
