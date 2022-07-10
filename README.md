@@ -1,6 +1,6 @@
 ### Hi there, I'm Rinat Yagudin👋
 
-## I'm a front-end developer. Currently looking for job =)
+## I'm a front-end developer in Topseller
 
 -   👨‍🎓 I am bachelor Software Engineering
 -   📖 React, EmberJS. Angular, JS(ES6+), Git, Docker
