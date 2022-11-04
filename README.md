@@ -3,7 +3,7 @@
 ## I'm a front-end developer in Topseller
 
 -   I am bachelor Software Engineering
--   React, EmberJS. Angular, JS(ES6+), Git, Docker
+-   Angular, React, EmberJS. , JS(ES6+), Git, Docker
 -   My level of English Intermediate (B1)
 
 ### Links and contacts:
