@@ -1,10 +1,11 @@
 ### Hi there, I'm Rinat Yagudin👋
+In RU-segment of the internet also known as a **даже и не стараюсь** (translate as **I don't even try**)
 
 ## I'm a front-end developer
 
 -   I am bachelor Software Engineering
--   Angular, React, EmberJS. , JS(ES6+), Git, Docker
--   My level of English Intermediate (B1)
+-   My passion is Angular, also know a little React, Ember
+-   English B2 // Russian - native // Japanese N5
 
 ### Links and contacts:
 ## [Portfolio](https://rich11berr.github.io/portfolio/#home)
