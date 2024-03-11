@@ -8,7 +8,6 @@ In RU-segment of the internet also known as a **даже и не стараюс�
 -   English B2 // Russian - native // Japanese N5
 
 ### Links and contacts:
-## [Portfolio](https://rich11berr.github.io/portfolio/#home)
 ## <img align="left" alt="habr" width="22px" src="https://habrastorage.org/files/df0/491/ba4/df0491ba483b4446bc9261be83f69ebd.png" />[career.habr](https://career.habr.com/yagudinfront)
 
 ## <img align="left" alt="telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124019.png" /> @Richard11Berry
